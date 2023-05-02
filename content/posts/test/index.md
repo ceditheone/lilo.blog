@@ -4,23 +4,23 @@ date = "2023-04-03"
 draft = false
 pinned = false
 +++
-<!--\\\\\[if !mso]>
+<!--\\\\\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -670,16 +670,16 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1028"/>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\\\\\[endif]-->
+ </o:shapelayout></xml><!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -695,15 +695,15 @@ Nach einiger Zeit führte uns Frau Menkveld zu Gino Bernasconi, welcher uns die 
 
 ## **Die Möglichkeiten der Paläontologie**
 
-<!--\\\\\[if !mso]-->
+<!--\\\\\\[if !mso]-->
 
-|                                          |
-| ---------------------------------------- |
-| <!--\\\\\[endif]--><!--\\\\\[if !mso]--> |
+|                                            |
+| ------------------------------------------ |
+| <!--\\\\\\[endif]--><!--\\\\\\[if !mso]--> |
 
-<!--\\\\\[endif]-->
+<!--\\\\\\[endif]-->
 
-Paläontologie ist für viele Menschen eine faszinierende Wissenschaft. Oft beginnt das Interesse an Fossilien schon im Kindesalter. Die Paläontologie beschäftigt sich im Allgemeinen mit der Erde vor unserer Zeitrechnung. Dabei bekommen Paläontolog*innen manchmal auf eine ganz besondere Weise einen Einblick, wie und in welcher Umgebung Tiere oder Pflanzen gelebt haben könnten. So auch Gino Bernasconi, der Fossilienpräparator des Naturhitstorischen Musem Bern. Wir haben uns mit ihm und Frau Ursula Menkveld dort verabredet. Mit Frau Menkveld tauschten wir uns über Genetik und Paläontologie aus, während wir mit Herrn Bernasconi über seine Erfahrungen sprachen. Wir durften dabei in das Zimmer für die Präparationen der Fossilien und erhielten somit gerade auch einen Einblick in die Tätigkeit von Herrn Bernasconi. Er erzählte uns, dass er früh an Fossilien interessiert war. Für ihn erzählt jedes Fossil seine eigene Geschichte. Zum Beispiel erzählte uns Herr Bernasconi, dass er einmal ein Fossil gefunden habe, welches einen Kiefer hatte, der in der Mitte um fast 90° gebrochen war.  Mit einem Fossil wie diesem lässt sich mehr als nur das Tier selbst rekonstruieren. Es ist möglich, auf die Todesursache dieses Tieres zu schliessen. Es gibt auch hin und wieder Fossilien, die Bisspuren aufweisen, oder bei denen man Knochen eines anderen Tiers gefunden hat. Selten kann man ganze Gruppen von Tieren finden. So kann man Rückschlüsse darauf ziehen, wie die Tiere zusammengelebt haben und ob sie Freund oder Feind waren.
+Paläontologie ist für viele Menschen eine faszinierende Wissenschaft. Oft beginnt das Interesse an Fossilien schon im Kindesalter. Die Paläontologie beschäftigt sich im Allgemeinen mit der Erde vor unserer Zeitrechnung. Dabei bekommen Paläontolog*innen manchmal auf eine ganz besondere Weise einen Einblick, wie und in welcher Umgebung Tiere oder Pflanzen gelebt haben könnten. So war dies auch bei Gino Bernasconi der Fall. Wir durften während dem Gespräch mit ihm in das Zimmer für die Präparationen der Fossilien und erhielten somit gerade auch einen Einblick in seine Tätigkeiten. Er erzählte uns, dass er früh an Fossilien interessiert war. Für ihn beherbergt jedes Fossil seine eigene Geschichte. Zum Beispiel erzählte uns Herr Bernasconi, dass er einmal ein Fossil gefunden habe, welches einen Kiefer hatte, der in der Mitte um fast 90° gebrochen war.  Mit einem Fossil wie diesem lässt sich mehr als nur das Tier selbst rekonstruieren. Es ist möglich, auf die Todesursache dieses Tieres zu schliessen. Es gibt auch hin und wieder Fossilien, die Bisspuren aufweisen, oder bei denen man Knochen eines anderen Tiers gefunden hat. Selten kann man ganze Gruppen von Tieren finden. So kann man Rückschlüsse darauf ziehen, wie die Tiere zusammengelebt haben und ob sie Freund oder Feind waren.
 
 Die Paläontologie kann noch mehr als das, denn mithilfe von Paläontologie lassen sich geologische Prozesse und Wetterphänomene erkennen. Vulkanausbrüche sind ein gutes Beispiel dafür, denn man kann sie in den verschiedenen Sedimentschichten nachweisen. Auch die Plattentektonik liess sich zum Teil mit Paläontologie belegen, da der deutsche Meteorologe, Polarforscher und Physiker Alfred Wegener Fossilien fand, die zur gleichen Art gehörten, jedoch auf verschiedenen Kontienten zu finden waren. Mithilfe von Paläontologie kann man auch die Veränderung der Landschaft über die Zeit analysieren, da verschiedene Sedimentschichten jeweils für eine andere Zeit stehen. So kann abgelesen werden, wie schnell und wann ein Gebirge entstanden ist. Auf diese Weise können auch die Sedimentschichten uns Geschichten davon erzählen, was sich auf der Erde vor unserer Zeit abgespielt hat.
 
@@ -723,13 +723,13 @@ Da man mit genetischen Analysen manche Dinge genauer festgestellt werden können
 
 Frau Menkveld erzählte uns auch, dass es im Museum auch ein Genetiklabor gibt. Sie tauschen sich manchmal aus, jedoch finde keine enge Zusammenarbeit statt. Aber die Kombinierten Daten von Paläontologie und Genetik helfen unser Verständnis der Evolution und der Geschichte des Lebens auf der Erde zu erweitern und ein umfassenderes Bild der Evolution zu zeichnen. Somit würde es der Wissenschaft nichts bringen, wenn man die Paläontologie durch Genetik ersetzten würde. Dies stand für Frau Menkveld und auch für uns relativ schnell fest.
 
-<!--\\\\\[if !supportFootnotes]-->
+<!--\\\\\\[if !supportFootnotes]-->
 
 - - -
 
-<!--\\\\\[endif]-->
+<!--\\\\\\[endif]-->
 
-\[<!--[if !supportFootnotes]-->\[1]<!--\\\\\[endif]-->](#_ftnref1) https://de.wikipedia.org/wiki/Pal%C3%A4ontologie
+\[<!--[if !supportFootnotes]-->\[1]<!--\\\\\\[endif]-->](#_ftnref1) https://de.wikipedia.org/wiki/Pal%C3%A4ontologie
 
 2: https://www.studium.at/sites/default/files/71371351635473658_bld_online.jpg
 
